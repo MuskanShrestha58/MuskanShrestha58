@@ -8,6 +8,8 @@
 
 💻 Be sure to check out my repositories for practice code, mini projects, and more!
 
+🚀 Additionally, I'm currently working on a project called "Procrastination Buster," a website focused on self-growth. I plan to create an API for it after acquiring the necessary skills.
+
 Let's connect and learn together! 🚀 
 <!---
 MuskanShrestha58/MuskanShrestha58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
